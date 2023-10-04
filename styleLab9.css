@@ -1,0 +1,50 @@
+body {
+	text-align: center;
+	
+}
+.container{
+	margin: 10px auto;
+}
+.right-side{
+	background-color: rgb(161, 184, 229);
+	height: fit-content;
+	height: 500px;
+	margin: 5px;
+}
+.left-side{
+	font-family: 'Abel', sans-serif;
+	background-color: rgb(161, 184, 229);
+	height: fit-content;
+	height: 500px;
+	margin: 5px;
+}
+
+header {
+	font-family: 'Abel', sans-serif;
+	background-image: url("image1.png");
+	background-size:70% ;
+	font-family: 'Fascinate';
+	padding: 10px;
+	margin-bottom:5px;
+}
+
+.content {
+	background-color: lightgreen;
+	height: 500px;
+	margin: 5px 0;
+	padding: 25px;
+	height: fit-content;
+}
+
+.menu {
+	padding: 5px;
+	text-align: center;
+}
+
+.footer {
+	background-color: rgb(59, 134, 156);
+	height: 80px;
+	margin: 5px auto;
+	padding: 10px;
+	text-align: center;
+}
